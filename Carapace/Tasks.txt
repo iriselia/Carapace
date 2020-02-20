@@ -1,0 +1,10 @@
+﻿
+! trace lines clip out sometimes depending on zoom level ... related to the zoom you created them at originally or something?
+
+- ability to toggle vanishing points on/off without deleting them (good for copying to individual layers in Photoshop)
+
+- force the first 3 vanishing points to be pure red/green/blue because then at least people could use the channels list in Photoshop to create layers easily
+
+- CTRL+ALT+C should copy just the selected vanishing point to the clipboard
+
+- add an ability to change the color of the lines depending on the plane 
